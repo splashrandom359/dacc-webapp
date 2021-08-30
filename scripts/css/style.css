@@ -5,3 +5,30 @@ body{
     background-position: center;
     background-size: 1200px;
 }
+ul.ulnav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+}
+li.linav{
+    float:left;
+}
+li.linav a{
+    display: block;
+    color:cornflowerblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li.linav a.active{
+    display: block;
+    color:darkcyan;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li.linav a:hover{
+    background-color: darkgreen;
+}
