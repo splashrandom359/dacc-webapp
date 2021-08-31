@@ -10,7 +10,7 @@ ul.ulnav{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: blue;
+    background-color: rgb(2, 2, 90);
 }
 li.linav{
     float:left;
@@ -31,4 +31,26 @@ li.linav a.active{
 }
 li.linav a:hover{
     background-color: darkgreen;
+}
+span.subtitle{
+    font-size: 10pt;
+    color:aqua;
+    font-family: Verdana;
+}
+span.maintitle{
+font-size: 20pt;
+color:aqua;
+font-family: verdana;
+}
+a.nav{
+    font-size: 8pt;
+    color:rgb(43, 43, 34);
+    font-family: verdana;
+    text-decoration: none;
+}
+a.nav:hover{
+    font-size: 8pt;
+    color:rgb(182, 182, 4);
+    font-family: verdana;
+    text-decoration: none;
 }
