@@ -54,3 +54,34 @@ a.nav:hover{
     font-family: verdana;
     text-decoration: none;
 }
+#page_wrapper{
+    margin-left:auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border: 2px solid #333333;
+    padding: 10px;
+    height: 800px;
+    width: 700px;
+    background: rgb(102, 102, 102,0.85);
+}
+p.p_content1{
+    font-size: 12px;
+    color: white;
+    font-family: verdana;
+    background-color: teal;
+    padding: 2px;
+    border-radius: 3px;
+    border: 2px solid black;
+}
+span.font1{
+    font-size: 20pt;
+    color: white;
+    font-family: verdana;
+    font-weight: bold;
+}
+span.standout{
+    font-size: 12pt;
+    color: rgb(170, 23, 23);
+    font-family: verdana;
+    font-weight: bold;
+}
