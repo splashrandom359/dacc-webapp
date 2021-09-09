@@ -61,7 +61,7 @@ a.nav:hover{
     border: 2px solid #333333;
     padding: 10px;
     height: 800px;
-    width: 700px;
+    width: 800px;
     background: rgb(102, 102, 102,0.85);
 }
 p.p_content1{
@@ -84,4 +84,52 @@ span.standout{
     color: rgb(170, 23, 23);
     font-family: verdana;
     font-weight: bold;
+}
+#image1{
+    margin-top: 49%;
+}
+#image2{
+    margin-top: 58%;
+}
+#image3{
+    margin-top:48%;
+}
+#image4{
+    margin-top: 55%;
+}
+#image5{
+    margin-top: 51%;
+}
+#image6{
+    margin-top: 56%;
+}
+#image7{
+    margin-top: 57%;
+}
+#image8{
+    margin-top: 59%;
+}
+#link1{
+    font-size: 20;
+    color:rgb(0, 17, 250);
+    text-decoration: none;
+}
+#link1:hover{
+    font-size: 20;
+    color:rgb(0, 20, 119);
+}
+#video1{
+margin-left: 185px;
+}
+#table2{
+    margin-top: 62%;
+}
+#list1{
+    font-size: 12px;
+    color: white;
+    font-family: verdana;
+    background-color: teal;
+    padding: 2px;
+    border-radius: 3px;
+    border: 2px solid black;
 }
